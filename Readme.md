@@ -1,13 +1,13 @@
 # DL Model Optimization for Lightweight Visual Wake Words Task
 
-- Author: Mruganshi Gohel (B20CS014) , Shubham Ghelani (B20EE019)
+- Author: Shubham Ghelani (B20EE019), Mruganshi Gohel (B20CS014) 
 
 ### How to run code:
 
 - Download the .ipynb file.
 - Login into google colab (or Jupyter Notebook if you have it)
 
-(preferred to run on google colab)
+(Preferred to run on google colab)
 
 1. **If you are using google colab**
 - Import .ipynb file into colab (file→open)
